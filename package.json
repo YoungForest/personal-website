@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/YoungForest/PersonalSiteVue#readme",
   "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
     "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.1",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-katex": "^2.0.3"
   }
 }
