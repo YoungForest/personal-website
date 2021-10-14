@@ -28,7 +28,19 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     ['@vuepress/blog']
-  ]
+  ],
+  head: [
+    [
+      // https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9046219176772396
+      "script",
+      {
+        "data-ad-client": "ca-pub-9046219176772396",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9046219176772396",
+        crossorigin: "anonymous"
+      },
+    ],
+  ],
 };
 
 function genSidebarConfig(title) {
