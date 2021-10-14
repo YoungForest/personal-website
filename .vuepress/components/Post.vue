@@ -2,6 +2,6 @@
   <section class="post">
     Post
     <br>
-    <Content></Content>
+    <!-- <Content></Content> -->
   </section>
 </template>

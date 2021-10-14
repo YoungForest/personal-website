@@ -1,4 +1,4 @@
-My Articles!
+Articles Content:
 
 <Posts />
 <!-- <IndexPost /> -->

@@ -6,7 +6,8 @@
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-author">Author: {{ page.frontmatter.author }}</div>
+          <!-- <div class="page-excerpt">{{ page.excerpt }}</div> -->
+          <div class="page-author" v-if="page.frontmatter.author">Author: {{ page.frontmatter.author }}</div>
         </div>
       </div>
     </router-link>
@@ -37,20 +38,33 @@ export default {
 }
 .post-card {
   width: 600px;
-  height: 150px;
   margin: 10px;
   border: 1px solid #ccc;
   border-radius: 3px;
   padding: 10px;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+}
+.page-title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.page-detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.page-author {
+  font-size: 0.8em;
 }
 .article-image {
   height: 100%;
 }
-.description {
+.page-description {
   width: 100%;
   display: flex;
   justify-content: center;
+  margin: 10px;
 }
 </style>

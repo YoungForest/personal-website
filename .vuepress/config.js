@@ -12,9 +12,7 @@ module.exports = {
       { text: "Blog", link: "https://youngforest.github.io/en/" },
       { text: "中文博客（My Chinese Blog)", link: "https://youngforest.github.io" }
     ],
-    sidebar: {
-      '/guide/': genSidebarConfig('Guide')
-    },
+    sidebar: 'auto',
     lastUpdated: 'Last Updated'
   },
 
@@ -29,45 +27,7 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    ['@vuepress/blog', {
-      directories: [
-        {
-          id: 'post', // Unique ID of current classification
-          dirname: '_posts', // Target directory
-          path: '/post/', // Posts context path
-          itemPermalink: '/post/:year/:month/:day/:slug', // Requires if path is not '/'
-          pagination: {
-            perPagePosts: 2,
-          },
-        },
-      ],
-      frontmatters: [
-        {
-          // Unique ID of current classification
-          id: 'tag',
-          // Decide that the frontmatter keys will be grouped under this classification
-          keys: ['tag'],
-          // Path of the `entry page` (or `list page`)
-          path: '/tag/',
-          // Layout of the `entry page`
-          layout: 'Tags',
-          // Layout of the `scope page`
-          scopeLayout: 'Tag',
-          pagination: {
-            perPagePosts: 3
-          }
-        },
-        {
-          id: "location",
-          keys: ['location'],
-          path: '/location/',
-          frontmatter: { title: 'Location' },
-        }
-      ],
-      sitemap: {
-        hostname: 'https://youngforest.me'
-      },
-    }]
+    ['@vuepress/blog']
   ]
 };
 

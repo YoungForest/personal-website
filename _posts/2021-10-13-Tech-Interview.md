@@ -6,7 +6,7 @@ type: article
 date: 2021-10-13
 tag:
   - interview
-location: Hangzhou
+location: Beijing
 ---
 
 Prepare your story.
