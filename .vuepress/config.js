@@ -1,18 +1,18 @@
 module.exports = {
-  title: "Harry Potter",
-  description: "The description of the site.",
+  title: "Sen Yang",
+  description: "My personal site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
   dest: "./dist",
-
+  // theme: '@vuepress/theme-blog', // https://web.archive.org/web/20210117185731/https://vuepress-theme-blog.ulivz.com/#quick-start
   themeConfig: {
     search: false,
     nav: [
-      { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: 'Articles', link: '/' },
+      { text: "CNKI2BIB 知网参考文献转换工具", link: "https://cnki2bib.youngforest.me/" },
+      { text: "Blog", link: "https://youngforest.github.io/en/" },
+      { text: "中文博客（My Chinese Blog)", link: "https://youngforest.github.io" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
@@ -26,10 +26,21 @@ module.exports = {
     extendMarkdown: md => {
       md.use(require("markdown-it-katex"));
     }
-  }
+  },
+
+  plugins: ['@vuepress/blog', {
+    directories: [
+      {
+        id: 'post', // Unique ID of current classification
+        dirname: '_posts', // Target directory
+        path: '/post/', // Posts context path
+        itemPermalink: '/post/:year/:month/:day/:slug', // Requires if path is not '/'
+      },
+    ],
+  }]
 };
 
-function genSidebarConfig (title) {
+function genSidebarConfig(title) {
   return [
     {
       title,
