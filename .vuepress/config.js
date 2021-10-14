@@ -2,9 +2,7 @@ module.exports = {
   title: "Sen Yang",
   description: "My personal site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/",
   dest: "./dist",
-  // theme: '@vuepress/theme-blog', // https://web.archive.org/web/20210117185731/https://vuepress-theme-blog.ulivz.com/#quick-start
   themeConfig: {
     search: false,
     nav: [
@@ -27,17 +25,50 @@ module.exports = {
       md.use(require("markdown-it-katex"));
     }
   },
-
-  plugins: ['@vuepress/blog', {
-    directories: [
-      {
-        id: 'post', // Unique ID of current classification
-        dirname: '_posts', // Target directory
-        path: '/post/', // Posts context path
-        itemPermalink: '/post/:year/:month/:day/:slug', // Requires if path is not '/'
+  // https://vuepress-plugin-blog.billyyyyy3320.com/guide/getting-started
+  plugins: [
+    '@vuepress/plugin-back-to-top',
+    '@vuepress/plugin-medium-zoom',
+    ['@vuepress/blog', {
+      directories: [
+        {
+          id: 'post', // Unique ID of current classification
+          dirname: '_posts', // Target directory
+          path: '/post/', // Posts context path
+          itemPermalink: '/post/:year/:month/:day/:slug', // Requires if path is not '/'
+          pagination: {
+            perPagePosts: 2,
+          },
+        },
+      ],
+      frontmatters: [
+        {
+          // Unique ID of current classification
+          id: 'tag',
+          // Decide that the frontmatter keys will be grouped under this classification
+          keys: ['tag'],
+          // Path of the `entry page` (or `list page`)
+          path: '/tag/',
+          // Layout of the `entry page`
+          layout: 'Tags',
+          // Layout of the `scope page`
+          scopeLayout: 'Tag',
+          pagination: {
+            perPagePosts: 3
+          }
+        },
+        {
+          id: "location",
+          keys: ['location'],
+          path: '/location/',
+          frontmatter: { title: 'Location' },
+        }
+      ],
+      sitemap: {
+        hostname: 'https://youngforest.me'
       },
-    ],
-  }]
+    }]
+  ]
 };
 
 function genSidebarConfig(title) {
