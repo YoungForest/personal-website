@@ -1,6 +1,8 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  15  | 2021/10/27 |  [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)   |  [link](https://www.bilibili.com/video/BV1X44y1v7Cg/)   | [link](https://www.ixigua.com/7024396553469035038?logTag=e13cc86d2a1d1225686b) |  [link](https://youtu.be/XOpn-x-kuG8)  |  英语技术面试自我模拟   |
+|  14  | 2021/10/26 |  [LeetCode 15. 3Sum](https://leetcode.com/problems/3sum/)   |  [link](https://www.bilibili.com/video/BV1QQ4y1U7Eb/)   | [link](https://www.ixigua.com/7024370572327191071?logTag=3dbf4716d7f59b51953e) |  [link](https://youtu.be/_9rSK5cCkUE)  |  英语技术面试自我模拟   |
 |  13  | 2021/10/27 |  [LeetCode 75. Sort Colors](https://leetcode.com/problems/sort-colors/)   |  [link](https://www.bilibili.com/video/BV1Vb4y1a7DY/)   | [link](https://www.ixigua.com/7023754504399127070?logTag=8da5d5302c2331052901) |  [link](https://youtu.be/vm-Wge_8Pck)  |  英语技术面试自我模拟   |
 |  12  | 2021/10/26 |  [LeetCode 226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)   |  [link](https://www.bilibili.com/video/BV1gb4y1a73y/)   | [link](https://www.ixigua.com/7023368000195527198?logTag=681d5dfa94d54c2d7cd3) |  [link](https://youtu.be/o5iKGblOWI4)  |  英语技术面试自我模拟   |
 |  11  | 2021/10/25 |  [LeetCode 155. Min Stack](https://leetcode.com/problems/min-stack/)   |  [link](https://www.bilibili.com/video/BV1sU4y1c7tf/)   | [link](https://www.ixigua.com/7022931619929391647?logTag=6acfef174095cb2b0da4) |  [link](https://youtu.be/QtKgq3hLvWM)  |  英语技术面试自我模拟   |
