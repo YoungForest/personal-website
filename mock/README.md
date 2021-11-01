@@ -1,6 +1,7 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  18  | 2021/11/1 |  [LeetCode 130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)   |  [link](https://www.bilibili.com/video/BV1JQ4y1S75f)   | [link](https://www.ixigua.com/7025555483213857317?logTag=63ce5fb52ecda32428a0) |  [link](https://youtu.be/hAH5zvc2uqU)  |  英语技术面试自我模拟   |
 |  17  | 2021/10/31 |  [LeetCode 430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)   |  [link](https://www.bilibili.com/video/BV1kq4y1g7k6/)   | [link](https://www.ixigua.com/7025160975523250718?logTag=bd781a3c8ca263cc272e) |  [link](https://youtu.be/H12ABOsG2QY)  |  英语技术面试自我模拟   |
 |  16  | 2021/10/30 |  [LeetCode 1044. Longest Duplicate Substring](https://www.bilibili.com/video/BV1tL41137RG/)   |  [link](https://www.bilibili.com/video/BV1tL41137RG/)   | [link](https://www.ixigua.com/7024868739145269773?logTag=6d4ec789d5d857ac637f) |  [link](https://youtu.be/lzCsleDuSwo)  |  英语技术面试自我模拟   |
 |  15  | 2021/10/29 |  [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)   |  [link](https://www.bilibili.com/video/BV1X44y1v7Cg/)   | [link](https://www.ixigua.com/7024396553469035038?logTag=e13cc86d2a1d1225686b) |  [link](https://youtu.be/XOpn-x-kuG8)  |  英语技术面试自我模拟   |
