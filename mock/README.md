@@ -1,6 +1,7 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  20  | 2021/11/4 |  [LeetCode 404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)   |  [link](https://www.bilibili.com/video/BV1k44y1i7u2/)   | [link](https://www.ixigua.com/7026679624012825124?logTag=4a4278f635824732e7b4) |  [link](https://youtu.be/jcBAkVco_2M)  |  英语技术面试自我模拟   |
 |  19  | 2021/11/3 |  [LeetCode 129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)   |  [link](https://www.bilibili.com/video/BV1sr4y1C76L/)   | [link](https://www.ixigua.com/7026339452872688135) |  [link](https://youtu.be/mRNk2vsAcrw)  |  英语技术面试自我模拟   |
 |  18  | 2021/11/1 |  [LeetCode 130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)   |  [link](https://www.bilibili.com/video/BV1JQ4y1S75f)   | [link](https://www.ixigua.com/7025555483213857317?logTag=63ce5fb52ecda32428a0) |  [link](https://youtu.be/hAH5zvc2uqU)  |  英语技术面试自我模拟   |
 |  17  | 2021/10/31 |  [LeetCode 430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)   |  [link](https://www.bilibili.com/video/BV1kq4y1g7k6/)   | [link](https://www.ixigua.com/7025160975523250718?logTag=bd781a3c8ca263cc272e) |  [link](https://youtu.be/H12ABOsG2QY)  |  英语技术面试自我模拟   |
