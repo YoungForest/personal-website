@@ -1,6 +1,7 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  22  | 2021/11/6 |  [LeetCode 260. Single Number III](https://leetcode.com/problems/single-number-iii/)   |  [link](https://www.bilibili.com/video/BV1nS4y1d7so/)   | [link](https://www.ixigua.com/7027438130949161486?logTag=9b81a9e3a7a0897a7112) |  [link](https://youtu.be/xpNqppcJ4PM)  |  英语技术面试自我模拟   |
 |  21  | 2021/11/5 |  [LeetCode 441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)   |  [link](https://www.bilibili.com/video/BV1rR4y1E7SE/)   | [link](https://www.ixigua.com/7027097136022061599?logTag=74c2c08316324d94dcf5) |  [link](https://youtu.be/VElkhiCcV1o)  |  英语技术面试自我模拟   |
 |  20  | 2021/11/4 |  [LeetCode 404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)   |  [link](https://www.bilibili.com/video/BV1k44y1i7u2/)   | [link](https://www.ixigua.com/7026679624012825124?logTag=4a4278f635824732e7b4) |  [link](https://youtu.be/jcBAkVco_2M)  |  英语技术面试自我模拟   |
 |  19  | 2021/11/3 |  [LeetCode 129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)   |  [link](https://www.bilibili.com/video/BV1sr4y1C76L/)   | [link](https://www.ixigua.com/7026339452872688135) |  [link](https://youtu.be/mRNk2vsAcrw)  |  英语技术面试自我模拟   |
