@@ -1,6 +1,8 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  23  | 2021/11/8 |  [LeetCode 96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)   |  [link](https://www.bilibili.com/video/BV1vh411t7GJ/)   | [link](https://www.ixigua.com/7028137942199566861?logTag=9e67f58d110c913033d3) |  [link](https://youtu.be/wgH7VvEy5jY)  |  英语技术面试自我模拟   |
+|  1  | 2021/11/7 |  最近公共祖先节点改进版（[LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)的follow up)   |  [link](https://www.bilibili.com/video/BV1GP4y157fj/)   | [link](https://www.ixigua.com/7027833415047217700?logTag=486cc40e39128aa65479) |  [link](https://youtu.be/0s0sEe0PHm8)  |  英语技术面试二人模拟   |
 |  22  | 2021/11/6 |  [LeetCode 260. Single Number III](https://leetcode.com/problems/single-number-iii/)   |  [link](https://www.bilibili.com/video/BV1nS4y1d7so/)   | [link](https://www.ixigua.com/7027438130949161486?logTag=9b81a9e3a7a0897a7112) |  [link](https://youtu.be/xpNqppcJ4PM)  |  英语技术面试自我模拟   |
 |  21  | 2021/11/5 |  [LeetCode 441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)   |  [link](https://www.bilibili.com/video/BV1rR4y1E7SE/)   | [link](https://www.ixigua.com/7027097136022061599?logTag=74c2c08316324d94dcf5) |  [link](https://youtu.be/VElkhiCcV1o)  |  英语技术面试自我模拟   |
 |  20  | 2021/11/4 |  [LeetCode 404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)   |  [link](https://www.bilibili.com/video/BV1k44y1i7u2/)   | [link](https://www.ixigua.com/7026679624012825124?logTag=4a4278f635824732e7b4) |  [link](https://youtu.be/jcBAkVco_2M)  |  英语技术面试自我模拟   |
