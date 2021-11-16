@@ -1,6 +1,7 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  27  | 2021/11/15 |  [LeetCode 368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)   |  [link](https://www.bilibili.com/video/BV19S4y1d77b/)   | [link](https://www.ixigua.com/7030741788075754020?logTag=2d41b00335334cea77e9) |  [link](https://youtu.be/0Cju1tOpwl4)  |  英语技术面试自我模拟   |
 |  26  | 2021/11/12 |  [LeetCode 203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)   |  [link](https://www.bilibili.com/video/BV1rq4y137ST/)   | [link](https://www.ixigua.com/7029665389244056101?logTag=c9cc4b685cf55e10c610) |  [link](https://youtu.be/NM4RVOCGrF4)  |  英语技术面试自我模拟   |
 |  25  | 2021/11/11 |  [LeetCode 1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)   |  [link](https://www.bilibili.com/video/BV1Zr4y1C7cq/)   | [link](https://www.ixigua.com/7029226345611657759?logTag=bf96907295a2ddd4615e) |  [link](https://youtu.be/a3Qoir81-0o)  |  英语技术面试自我模拟   |
 |  24  | 2021/11/9 |  [LeetCode 1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)   |  [link](https://www.bilibili.com/video/BV1Yq4y137qY/)   | [link](https://www.ixigua.com/7028556396539052574?logTag=2ad91679d160438ac5dc) |  [link](https://youtu.be/8OSASF_O_Ro)  |  英语技术面试自我模拟   |
