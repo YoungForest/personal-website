@@ -1,6 +1,7 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  30  | 2021/11/26 |  [LeetCode 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)   |  [link](https://www.bilibili.com/video/BV1c3411b7N6/)   | [link](https://www.ixigua.com/7034862733212582408?logTag=f3a32a00fe94bb78cf09) |  [link](https://youtu.be/2_pPwaf6Cjk)  |  英语技术面试自我模拟   |
 |  29  | 2021/11/22 |  [LeetCode 450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)   |  [link](https://www.bilibili.com/video/BV1eq4y1u7uE/)   | [link](https://www.ixigua.com/7033335125186183717?logTag=192b8461eb7ad997559c) |  [link](https://youtu.be/0Cju1tOpwl4)  |  英语技术面试自我模拟   |
 |  28  | 2021/11/18 |  [LeetCode 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)   |  [link](https://www.bilibili.com/video/BV1Ph4114727/)   | [link](https://www.ixigua.com/7031834662108561951?logTag=ad17a5591db2b6e20c40) |  [link](https://youtu.be/rOY03dUJFPI)  |  英语技术面试自我模拟   |
 |  27  | 2021/11/15 |  [LeetCode 368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)   |  [link](https://www.bilibili.com/video/BV19S4y1d77b/)   | [link](https://www.ixigua.com/7030741788075754020?logTag=2d41b00335334cea77e9) |  [link](https://youtu.be/0Cju1tOpwl4)  |  英语技术面试自我模拟   |
