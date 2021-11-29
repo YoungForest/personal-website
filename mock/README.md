@@ -1,6 +1,8 @@
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  32  | 2021/11/28 |  [LeetCode 797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)   |  [link](https://www.bilibili.com/video/BV1ur4y1Q7cK/)   | [link](https://www.ixigua.com/7035566391252124173?logTag=18267f47e9d891534a8a) |  [link](https://youtu.be/OfAMJJKtnss)  |  英语技术面试自我模拟   |
+|  31  | 2021/11/27 |  [LeetCode 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   |  [link](https://www.bilibili.com/video/BV1mP4y1G7if/)   | [link](https://www.ixigua.com/7035119730977407496?logTag=8edf1d7ae0481582efca) |  [link](https://youtu.be/PvKUAiQqH-U)  |  英语技术面试自我模拟   |
 |  30  | 2021/11/26 |  [LeetCode 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)   |  [link](https://www.bilibili.com/video/BV1c3411b7N6/)   | [link](https://www.ixigua.com/7034862733212582408?logTag=f3a32a00fe94bb78cf09) |  [link](https://youtu.be/2_pPwaf6Cjk)  |  英语技术面试自我模拟   |
 |  29  | 2021/11/22 |  [LeetCode 450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)   |  [link](https://www.bilibili.com/video/BV1eq4y1u7uE/)   | [link](https://www.ixigua.com/7033335125186183717?logTag=192b8461eb7ad997559c) |  [link](https://youtu.be/0Cju1tOpwl4)  |  英语技术面试自我模拟   |
 |  28  | 2021/11/18 |  [LeetCode 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)   |  [link](https://www.bilibili.com/video/BV1Ph4114727/)   | [link](https://www.ixigua.com/7031834662108561951?logTag=ad17a5591db2b6e20c40) |  [link](https://youtu.be/rOY03dUJFPI)  |  英语技术面试自我模拟   |
