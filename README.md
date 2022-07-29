@@ -11,7 +11,7 @@ socials:
     link: https://github.com/YoungForest
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com/in/%E6%A3%AE-%E6%9D%A8-a20a02137/
+    link: https://www.linkedin.com/in/sen-yang-a20a02137/
   - title: leetcode
     icon: "/icons/leetcode.svg"
     link: https://leetcode.com/YoungForest
@@ -31,13 +31,13 @@ I am a SDE, currently working in Amazon. Before that, I got my Computer Science 
 
 ## Awards & Honors
 
-LeetCode max rating 2460, rank 460 in world.
+LeetCode max rating 2606, rank 270 in world.
 
 ## Groups
 
-[Cruel Coding Club](http://board.cruelcoding.com/)
-[Free Style System design](https://system.youngforest.me/)
-[Free Style Coding](https://justyy.com/lc-score-board/)
+- [Cruel Coding Club](http://board.cruelcoding.com/)
+- [Free Style System design](https://system.youngforest.me/)
+- [Free Style Coding](https://justyy.com/lc-score-board/)
 
 <!-- Custom style for this page -->
 
@@ -77,7 +77,7 @@ LeetCode max rating 2460, rank 460 in world.
 
     .md-card
       .card-image
-        img 
+        img
           width 100%
           max-width 400px
 

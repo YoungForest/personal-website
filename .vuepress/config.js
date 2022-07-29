@@ -9,6 +9,7 @@ module.exports = {
       { text: "About", link: "/" },
       { text: "Technical Interview Mock", link: "/mock/" },
       { text: "CNKI2BIB 知网参考文献转换工具", link: "https://cnki2bib.youngforest.me/" },
+      { text: "Online TOTP Generator", link: "https://totp.youngforest.me/" },
       { text: "Blog", link: "https://youngforest.github.io/en/" },
       { text: "中文博客（My Chinese Blog)", link: "https://youngforest.github.io" }
     ],
