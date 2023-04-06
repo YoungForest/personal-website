@@ -18,8 +18,14 @@ socials:
   - title: leetcode-cn
     icon: "/icons/lccn.svg"
     link: https://leetcode-cn.com/u/YoungForest
+  - title: twitter
+    icon: "/icons/twitter.svg"
+    link: https://twitter.com/youngforest
+  - title: CodeForces
+    icon: "/icons/code-forces.svg"
+    link: https://codeforces.com/profile/_beginner
 
-bio: SDE in Amazon, Beijing
+bio: SDE in Microsoft, Dublin
 email: sen.yang96@outlook.com
 ---
 
@@ -27,7 +33,8 @@ email: sen.yang96@outlook.com
 
 ## About Me
 
-I am a SDE, currently working in Amazon. Before that, I got my Computer Science and Engineering master and bachelor degree from Beihang University.
+I am a SDE, currently working in Microsoft, Dublin.
+Before that, I got my Computer Science and Engineering master and bachelor degree from Beihang University and worked in Amazon, Beijing.
 
 ## Awards & Honors
 
