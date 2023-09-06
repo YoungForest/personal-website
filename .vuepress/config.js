@@ -7,8 +7,8 @@ module.exports = {
     search: false,
     nav: [
       { text: "About", link: "/" },
-      { test: "France visa monitor for Ireland", link: "https://docs.google.com/document/d/1uHJCxINt9Sb0f1HHybCFhxkmpzxRURilsxqD6OQLpQ4/edit?usp=sharing"},
       { text: "Technical Interview Mock", link: "/mock/" },
+      { test: "France visa monitor", link: "https://docs.google.com/document/d/1uHJCxINt9Sb0f1HHybCFhxkmpzxRURilsxqD6OQLpQ4/edit?usp=sharing" },
       { text: "CNKI2BIB 知网参考文献转换工具", link: "https://cnki2bib.youngforest.me/" },
       { text: "Online TOTP Generator", link: "https://totp.youngforest.me/" },
       { text: "Blog", link: "https://youngforest.github.io/en/" },
