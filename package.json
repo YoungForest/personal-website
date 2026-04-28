@@ -1,31 +1,29 @@
 {
-  "name": "PersonalSiteVue",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "personal-website",
+  "version": "2.0.0",
+  "description": "Sen Yang's personal site, built with VitePress.",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "vuepress build && cp ads.txt dist/",
-    "dev": "vuepress dev"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YoungForest/PersonalSiteVue.git"
+    "url": "git+https://github.com/YoungForest/personal-website.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sen Yang",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YoungForest/PersonalSiteVue/issues"
+    "url": "https://github.com/YoungForest/personal-website/issues"
   },
-  "homepage": "https://github.com/YoungForest/PersonalSiteVue#readme",
+  "homepage": "https://youngforest.me",
   "devDependencies": {
-    "@vuepress/plugin-blog": "^1.9.4",
-    "vuepress": "^1.8.2"
-  },
-  "dependencies": {
-    "markdown-it": "^8.4.1",
-    "markdown-it-emoji": "^1.4.0",
-    "markdown-it-katex": "^2.0.3"
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.13"
   }
 }

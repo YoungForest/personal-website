@@ -1,4 +1,0 @@
-Articles Content:
-
-<Posts />
-<!-- <IndexPost /> -->
