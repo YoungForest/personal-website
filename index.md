@@ -10,8 +10,8 @@ hero:
     alt: Sen Yang
   actions:
     - theme: brand
-      text: Read Posts
-      link: /posts/
+      text: Read the Blog
+      link: https://youngforest.github.io
     - theme: alt
       text: GitHub
       link: https://github.com/YoungForest
@@ -29,9 +29,9 @@ features:
     linkText: View LeetCode profile
   - icon: ✍️
     title: Writing
-    details: Yearly retrospectives, technical notes, and life reflections — in both English and 中文.
-    link: /posts/
-    linkText: Read posts
+    details: New posts go to my main blog at youngforest.github.io (中文). Older posts (2017–2021) are archived on this site.
+    link: https://youngforest.github.io
+    linkText: Read the latest blog
   - icon: 🛠️
     title: Side Projects
     details: CNKI2BIB reference converter, Online TOTP generator, and a France visa monitor bot.

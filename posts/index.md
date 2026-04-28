@@ -1,10 +1,17 @@
 ---
-title: Posts
+title: Archive
+description: Older posts (2017–2021) — historical archive.
 ---
 
-# Posts
+# Archive
 
-Yearly retrospectives, technical notes, and life reflections.
+> 📦 **This page is an archive.** New posts since 2022 are published on my main blog
+> at **<https://youngforest.github.io>** (中文) and
+> **<https://youngforest.github.io/en/>** (English).
+>
+> The pages below are kept here for reference and to preserve old links.
+
+Yearly retrospectives, technical notes, and life reflections from 2017–2021.
 
 ## 年度总结 / Yearly Reviews
 
