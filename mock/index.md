@@ -1,3 +1,11 @@
+---
+title: Mock Interviews
+description: 30+ recorded English mock interview videos on LeetCode problems.
+---
+
+# Mock Interviews
+
+英语技术面试自我模拟视频合集 — A collection of recorded English mock-interview videos on LeetCode problems. Available on Bilibili, 西瓜视频, and YouTube.
 
 | No. | date | Problem | B 站 | 西瓜视频 | YouTube | 类型 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
