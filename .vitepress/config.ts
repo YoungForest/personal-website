@@ -35,7 +35,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Posts', link: '/posts/' },
+      { text: 'Archive', link: '/posts/' },
       { text: 'Mock Interviews', link: '/mock/' },
       {
         text: 'Tools',
